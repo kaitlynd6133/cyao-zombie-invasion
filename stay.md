@@ -2,6 +2,6 @@
 
 Sleep in for 10 minutes and be late for work
 
-## [You take a shower](take-shower)
+## [You take a shower](take-shower.md)
 
-## [You brush your teeth](brush-teeth)
+## [You brush your teeth](brush-teeth.md)
