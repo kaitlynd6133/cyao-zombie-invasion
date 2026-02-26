@@ -18,11 +18,10 @@
     </head>
     <body>
         <!-- HTML -->
-<h2 class="red-text>Your alarm rings and its time to go to work. What do you do?</h2>
+<h2 class="red-text">Your alarm rings and it's time to go to work. What do you do?</h2>
 
-#### [Go to work](work.md)
-
-#### [Stay Home](stay.md)
+<h4><a href="work.md">Go to work</a></h4>
+<h4><a href="stay.md">Stay home</a></h4>
 
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
