@@ -1,4 +1,4 @@
-# You drop the shwoer head, making a big noise (your doorbell rings)
+# You drop the shower head, making a big noise (your doorbell rings)
 
 ## [Check through the peephole and see who it is](shower-peephole.md)
 
