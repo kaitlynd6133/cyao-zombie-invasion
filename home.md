@@ -19,6 +19,7 @@
     <body>
         <!-- HTML -->
 <h2 class="red-text>Your alarm rings and its time to go to work. What do you do?</h2>
+
 #### [Go to work](work.md)
 
 #### [Stay Home](stay.md)

@@ -1,0 +1,3 @@
+# You realize that you've made the wrong choice of barricading yourself in, not having enough food to sustain yourself throughout however long this doomed apocalypse is...
+
+## [Restart](README.md)
