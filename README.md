@@ -6,5 +6,5 @@
 
 Credits:
 ## [Jia](https://github.com/jialiangz3962)
-## [kaitlyn](https://github.com/kaitlynd6133)
 
+## [kaitlyn](https://github.com/kaitlynd6133)
